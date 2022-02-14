@@ -6,7 +6,7 @@ global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
 global.ownername ="abdiOfc"
-global.ownernumber = "6285399958176"
+global.ownernumber = "6285824629954"
 global.botname = "A-Bot"
 global.thumbnail = fs.readFileSync("./settings/haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
